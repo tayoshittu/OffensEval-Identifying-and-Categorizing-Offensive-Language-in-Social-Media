@@ -1,0 +1,2 @@
+# OffensEval-Identifying-and-Categorizing-Offensive-Language-in-Social-Media
+In this task offensive content was broken down into three sub-tasks.  Sub-task A - Offensive language identification: The system categorizes tweets as merely offensive or not offensive; Sub-task B - Automatic categorization of offense types: The system categorizes offensive tweets as targeted or untargeted; Sub-task C - Offense target identification: The system categorizes targeted offensive tweets into individual, group or other
